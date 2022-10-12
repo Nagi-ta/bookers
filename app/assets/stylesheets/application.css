@@ -32,3 +32,11 @@ p, ol, ul, td {
 a {
   color: #000;
 }
+
+#notice {
+  color: green;
+}
+
+li {
+  list-style: square;
+}
